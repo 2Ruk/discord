@@ -1,0 +1,20 @@
+{
+  "name": "discord-init",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node --experimental-specifier-resolution=node dist/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^20.11.28"
+  },
+  "dependencies": {
+    "@typegoose/typegoose": "^12.3.0",
+    "dayjs": "^1.11.10",
+    "discord.js": "^14.14.1"
+  }
+}
