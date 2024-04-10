@@ -10,7 +10,8 @@
   "license": "ISC",
   "type": "module",
   "devDependencies": {
-    "@types/node": "^20.12.7"
+    "@types/node": "^20.12.7",
+    "typescript": "^5.4.4"
   },
   "dependencies": {
     "@typegoose/typegoose": "^12.3.0",
